@@ -1,4 +1,4 @@
-##👋 Hi, I'm Krishna
+## 👋 Hi, I'm Krishna
 I’m a Computer Science student who enjoys building projects that sit at the intersection of software, data, and automation, and lovebuilding tools to make everyday tasks easier.
 
 <!--
