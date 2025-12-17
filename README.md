@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Krishna
-I’m a Computer Science student who enjoys building projects that sit at the intersection of software, data, and automation, and lovebuilding tools to make everyday tasks easier.
+I’m a Computer Science student who enjoys building projects that sit at the intersection of software, data, and automation, and love building tools to make everyday tasks easier.
 
 <!--
 **KrishnaRaheja/KrishnaRaheja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
